@@ -1,0 +1,21 @@
+Esta es la explicación del segundo ejercicio con las instrucciones en git
+
+- Ya estando en git dentro de la carpeta en la cual se va a trabajar se inicia 
+con la instrucción git init
+
+- Con la instrucción git status para verificar lo que vamos a subir
+
+- Y ahí verificamos los archivos a tratar
+
+- Ahora con git commit -m y un mensaje estamos añadiendo un commit, basicamente
+para subir los cambios del repositorio.
+
+- En aquellos pasos aun se está trabajando en el local y no en el repositorio 
+remoto por eso con el comando git branch -M main se subira a la rama principal.
+
+- Y con git push -u origin main seguido del enlace, estamos haciendo efectivo 
+la sincronización de mi local con mi remoto.
+
+
+
+
