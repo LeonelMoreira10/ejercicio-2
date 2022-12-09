@@ -13,8 +13,8 @@ para subir los cambios del repositorio.
 - En aquellos pasos aun se está trabajando en el local y no en el repositorio 
 remoto por eso con el comando git branch -M main se subira a la rama principal.
 
-- Y con git push -u origin main seguido del enlace, estamos haciendo efectivo 
-la sincronización de mi local con mi remoto.
+- Con git remote add origin seguido del enlace nos aparecera ponerlo en el repositorio
+Y con git push -u origin main, se esta haciendo efectivo la sincronización de mi local con mi remoto.
 
 
 
